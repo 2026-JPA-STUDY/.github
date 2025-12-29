@@ -1,12 +1,71 @@
-## Hi there 👋
+# 🌱 JPA 스터디
 
-<!--
+> **김영한 - 자바 ORM 표준 JPA 프로그래밍 - 기본편**을 기반으로 진행하는 스터디입니다.  
+📒 **[👉 Discussion 바로가기](https://github.com/2026-JPA-STUDY/JPA_STUDY/discussions)**  
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🎯 스터디 목표
+- JPA 기본 개념을 탄탄하게 잡는다.
+- 실습 기반으로 Entity 설계·매핑 감각을 익힌다.
+- 스프링 + JPA 기반 프로젝트 개발 역량 강화.
+
+---
+
+## 📚 강의 정보
+| 강의명 | 시작 | 목표 | 학습량 |
+|---|---|---|---|
+| 자바 ORM 표준 JPA 프로그래밍 - 기본편 | **2026.01.03 시작** | 완주 | 약 20시간 (118강) |
+
+---
+
+## 📅 스터디 일정 (4일 간격 진행)
+> 첫 시작 **2026.01.03(토)** → 이후 **4일 주기(토→화→토→화…)**
+
+<details>
+<summary><b>📘 진행 기록 보기</b> (클릭)</summary>
+
+### JPA 기본편 스터디 진행 현황
+
+| 날짜 | 학습 섹션 | 용학 | 원선 | 덕린 | 재석 | 용준 | 경훈 | 동환 | 정원 |
+|---|---|---|---|---|---|---|---|---|---|
+| **1월 03일(토)** | 섹션 2. JPA 소개 · ORM 이해 |  ✅  |  ✅  |  ✅ | ✅  | ✅ |  ✅  | ✅ | ✅ |
+| **1월 06일(화)** | 섹션 3. 기본 매핑 · 엔티티 설정 |   |    |   |  |  |    |  | |
+| **1월 10일(토)** | 섹션 4. 영속성 컨텍스트 · 생명주기 |  |  |  |  |  |  |  | |
+| **1월 13일(화)** | 섹션 5. 엔티티 매핑 - 필드/컬럼 |  |  |  | | | | | |
+| **1월 17일(토)** | 섹션 6. 기본키 매핑 전략 |  |  |  |  |  |  |  | |
+| **1월 20일(화)** | 섹션 7. 연관관계 매핑 - 기본 |   |   |   |   |   |   |   | |
+| **1월 24일(토)** | 섹션 7-1. 단방향/양방향 이해 |   |   |   |   |   |   |   | |
+| **1월 27일(화)** | 섹션 8. 지연로딩 vs 즉시로딩 |   |   |   |   |   |   |   | |
+| **1월 31일(토)** | 섹션 9. 영속성 전이 · 고아 객체 |   |   |   |   |   |   |   | |
+| **2월 03일(화)** | 섹션 10. 값 타입 · 임베디드 |   |   |   |   |   |   |   | |
+| **2월 07일(토)** | 섹션 11. JPQL 기본 |   |   |   |   |   |   |   | |
+| **2월 10일(화)** | 섹션 12. 조인 / 페치 조인 |   |   |   |   |   |   |   | |
+| **2월 14일(토)** | 섹션 13. N+1 문제 해결 |   |   |   |   |   |   |   | |
+| **2월 17일(화)** | 섹션 14. 실무 활용 · 프로젝트 적용 |   |   |   |   |   |   |   | |
+
+</details>
+
+---
+
+## 👥 스터디 구성원
+
+| 이름 | GitHub | 상태 |
+|---|---|---|
+| 용학 | [YONGHYNG](https://github.com/YONGHYNG) | 👑 리드/정리 |
+| 덕린 | [YuDeokRin](https://github.com/YuDeokRin) | 🔥 꾸준 |
+| 원선 | [im1sun](https://github.com/im1sun) | 🔥 꾸준 |
+| 정원 | [dev-wonny](https://github.com/dev-wonny) | ✍ 열공 |
+| 경훈 | [Kimkyunghoon1117](https://github.com/Kimkyunghoon1117) | ✍ 열공 |
+| 용준 | [yjk490](https://github.com/yjk490) | ✍ 열공 |
+| 동환 | [YONGHYNG]() | ✍ 열공 |
+| 재석 | - | - |
+
+---
+
+### 💬 규칙
+- 스터디는 4일 주기로 진행합니다.
+- 학습 후 체크(✅/🔺/❌) 업데이트.
+- 질문/노트는 **Discussion 활용**.
+
+---
