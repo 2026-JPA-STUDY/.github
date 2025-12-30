@@ -58,8 +58,8 @@
 | 정원 | [dev-wonny](https://github.com/dev-wonny) | ✍ 열공 |
 | 경훈 | [Kimkyunghoon1117](https://github.com/Kimkyunghoon1117) | ✍ 열공 |
 | 용준 | [yjk490](https://github.com/yjk490) | ✍ 열공 |
-| 동환 | [YONGHYNG]() | ✍ 열공 |
-| 재석 | - | - |
+| 동환 | [Develop-KIM](https://github.com/Develop-KIM) | ✍ 열공 |
+| 재석 | [leejaeseok-98](https://github.com/leejaeseok-98) | ✍ 열공 |
 
 ---
 
