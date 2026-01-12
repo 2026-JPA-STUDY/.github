@@ -27,7 +27,7 @@
 
 ### JPA 기본편 스터디 진행 현황
 
-| 날짜 | 학습 섹션 | 용학 | 원선 | 덕린 | 재석 | 용준 | 경훈 | 동환 | 정원 |
+| 날짜 | 학습 섹션 | 확인 | 용학 | 덕린 | 재석 | 용준 | 경훈 | 동환 | 정원 |
 |---|---|---|---|---|---|---|---|---|---|
 | **1월 03일(토)** | 섹션 2. JPA 소개 · ORM 이해 |  ✅  |  ✅  |  ✅ | ✅  | ✅ |  ✅  | ✅ | ✅ |
 | **1월 06일(화)** | 섹션 4 |  ✅  |  ✅  |  ✅ | ✅  | ✅ |  ✅  | ✅ | ✅ |
@@ -54,7 +54,6 @@
 |---|---|---|
 | 용학 | [YONGHYNG](https://github.com/YONGHYNG) | 👑 리드/정리 |
 | 덕린 | [YuDeokRin](https://github.com/YuDeokRin) | 🔥 꾸준 |
-| 원선 | [im1sun](https://github.com/im1sun) | 🔥 꾸준 |
 | 정원 | [dev-wonny](https://github.com/dev-wonny) | ✍ 열공 |
 | 경훈 | [Kimkyunghoon1117](https://github.com/Kimkyunghoon1117) | ✍ 열공 |
 | 용준 | [yjk490](https://github.com/yjk490) | ✍ 열공 |
